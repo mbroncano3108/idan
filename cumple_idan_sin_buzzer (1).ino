@@ -20,7 +20,7 @@ void setup() {
   mostrarMensaje("Hey, oye tu...", "Si, tu mismo!");
   mostrarMensaje("Hoy es tu", "cumpleanos!!");
   mostrarMensaje("Feliz cumple", "Idan Alessio!");
-  mostrarMensaje("Ojala el proximo", "anio sigas");
+  mostrarMensaje("Ojala el proximo", "año sigas");
   mostrarMensaje("con vida jaja", ":D");
   mostrarMensaje("6767676767", "6767676767");
   mostrarMensaje("Dewey sal", "de ahi!!");
